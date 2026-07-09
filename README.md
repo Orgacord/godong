@@ -15,10 +15,7 @@ No hate to Godot, they made a great job
 
 Godong is completely free and open source under the very permissive [MIT license](https://godotengine.org/license).
 No strings attached, no royalties, nothing. The users' games are theirs, down
-to the last line of engine code. Godot's development is fully independent and
-community-driven, empowering users to help shape their engine to match their
-expectations. It is supported by the [Godot Foundation](https://godot.foundation/)
-not-for-profit.
+to the last line of engine code. Godot's development is fully independent from Godong's development.
 
 ## Getting the original engine
 
