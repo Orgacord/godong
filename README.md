@@ -8,7 +8,8 @@
 
 ## 2D and 3D cross-platform game engine
 
-**[Godot Engine](https://godotengine.org)** is the engine behind Godong Engine
+**[Godot Engine](https://godotengine.org)** is the engine behind Godong Engine.
+No hate to Godot, they made a great job
 
 ## Free, open source and community-driven
 
