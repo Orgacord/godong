@@ -1,8 +1,8 @@
-# Godot Engine
+# Godong Engine
 
 <p align="center">
-  <a href="https://godotengine.org">
-    <img src="misc/logo/logo_outlined.svg" width="400" alt="Godot Engine logo">
+  <a href="https://orgacord.de">
+    <img src="misc/logo/logo_outlined.svg" width="400" alt="Godong Engine logo">
   </a>
 </p>
 
